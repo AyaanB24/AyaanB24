@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayaan Bargir</h1>
 <h3 align="center">Engineering Student | Exploring Software & Technology</h3>
 
-- 🌱 I’m currently learning **Dockers,Kubernetes,Jenkins**
+- **📚 Aspiring DevOps Engineer | AWS & Docker Enthusiast**
 
 - 📫 How to reach me **ayaanbargir7@gmail.com**
 
