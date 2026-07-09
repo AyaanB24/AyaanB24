@@ -14,7 +14,7 @@
 I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA of **8.79** from Sangli, Maharashtra, India. With hands-on experience in full-stack development and a strong interest in DevOps, I've worked on projects using Docker, Jenkins, Kubernetes, and basic CI/CD workflows. I'm eager to learn, collaborate, and contribute to real-world software development roles.
 
 - 🔭 I'm currently working on: **MERN, DevOps Automation & Cloud Deployments**
-- 🌱 I'm currently learning: **AWS, CI/CD, Cloud Infrastructure, Advanced Kubernetes**
+- 🌱 I'm currently learning: **AWS, CI/CD, Cloud Infrastructure**
 - 💬 Ask me about: **Full Stack Development, DevOps, Cloud Computing, Open Source**
 - 📫 How to reach me: [ayaanbargir7@gmail.com](mailto:ayaanbargir7@gmail.com)
 
@@ -47,7 +47,6 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-6DB33F?style=for-the-badge)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### Cloud
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -154,11 +153,7 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
   </a>
   <a href="mailto:ayaanbargir7@gmail.com">
   
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/AyaanB24">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+ 
+
 
 ---
