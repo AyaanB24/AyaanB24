@@ -148,7 +148,7 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayaan-bargir-13b684311">
+  <a href="https://www.linkedin.com/in/ayaanbargir">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ayaanbargir7@gmail.com">
@@ -157,3 +157,4 @@ I'm a **B.Tech Computer Science & Engineering (IoT & CSBT)** student with a CGPA
 
 
 ---
+
