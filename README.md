@@ -29,26 +29,74 @@
   Full Stack Development • DevOps • Cloud Computing • Backend Engineering • Open Source
 </p>
 
-<h2 align="center">Tech Stack (DevOps & Backend)</h2>
-<div align="left">
-<ul>
-  <li><strong>Programming Languages:</strong> Java</li>
-  <li><strong>Databases:</strong> MySQL, MongoDB</li>
-  <li><strong>DevOps & Cloud:</strong> Docker, Kubernetes, Jenkins, GitHub Actions, Linux (Ubuntu), AWS</li>
-  <li><strong>Tools & Technologies:</strong> Git, GitHub, Jira, Slack, Postman</li>
-  <li><strong>Concepts:</strong> OOPs, DBMS, CN, OS, APIs, SDLC, Agile Methodology (Scrum)</li>
-  <li><strong>Learning:</strong> Java Full Stack Development (Maven, Spring Boot, JPA + Hibernate)</li>
-</ul>
-<ul>
-  <li><strong>DevOps & CI/CD:</strong> Docker, Kubernetes, Jenkins, GitHub Actions, CI/CD Pipelines, Docker Compose, Docker Hub</li>
-  <li><strong>Cloud:</strong> AWS (EC2, S3, CloudFront)</li>
-  <li><strong>DevSecOps:</strong> SonarQube, Trivy, OWASP Dependency-Check, Semgrep</li>
-  <li><strong>Monitoring:</strong> Prometheus, Grafana</li>
-  <li><strong>Infrastructure & OS:</strong> Linux (Ubuntu), NGINX (Reverse Proxy), Shell Scripting</li>
-  <li><strong>Version Control:</strong> Git, GitHub</li>
-  <li><strong>Collaboration & Practices:</strong> Jira, Slack, Agile/Scrum, SDLC</li>
-</ul>
-</div>
+<h2 align="center">Tech Stack</h2>
+
+```text
+Java • Spring Boot • Maven • Hibernate • JPA • MySQL • MongoDB • Docker • Kubernetes • Jenkins • GitHub Actions • AWS • EC2 • S3 • CloudFront • Linux • Ubuntu • NGINX • Git • GitHub • Shell Scripting • Postman • SonarQube • Trivy • OWASP Dependency-Check • Semgrep • Prometheus • Grafana • Jira • Slack
+```
+
+---
+
+## Prompt for AI (GitHub Profile Tech Stack Icons)
+
+> Create a modern GitHub profile **Tech Stack** section on a clean transparent background.
+>
+> Display each technology as an **individual circular (round) icon badge** with a subtle glassmorphism effect and soft shadow. Every badge should have:
+>
+> * Perfect circular shape
+> * Official technology logo centered
+> * Thin glowing border
+> * Small technology name below the icon (optional)
+> * Consistent size and spacing
+> * High-resolution vector style
+>
+> Arrange the icons in multiple balanced rows with equal spacing.
+>
+> Include only these technologies:
+>
+> * Java
+> * Spring Boot
+> * Maven
+> * Hibernate
+> * JPA
+> * MySQL
+> * MongoDB
+> * Docker
+> * Kubernetes
+> * Jenkins
+> * GitHub Actions
+> * AWS
+> * Amazon EC2
+> * Amazon S3
+> * Amazon CloudFront
+> * Linux
+> * Ubuntu
+> * NGINX
+> * Git
+> * GitHub
+> * Shell Scripting (Bash)
+> * Postman
+> * SonarQube
+> * Trivy
+> * OWASP Dependency-Check
+> * Semgrep
+> * Prometheus
+> * Grafana
+> * Jira
+> * Slack
+>
+> Design style:
+>
+> * Professional DevOps engineer portfolio
+> * Minimal and clean
+> * Dark theme compatible
+> * Transparent PNG
+> * Official brand colors
+> * Equal icon sizing
+> * No extra decorations
+> * Crisp SVG-like quality
+> * Suitable for a GitHub README profile
+> * 4K resolution with generous padding so it scales well on GitHub.
 
 <h2 align="center">Projects</h2>
 <div align="center">
