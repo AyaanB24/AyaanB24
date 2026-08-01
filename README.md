@@ -29,62 +29,48 @@
   Full Stack Development • DevOps • Cloud Computing • Backend Engineering • Open Source
 </p>
 
-<h2 align="center">Tools & Technologies</h2>
+<h2 align="center">Tech Stack</h2>
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top" align="left">
-<strong>Programming Languages</strong><br>
+<strong>Languages</strong><br>
 <div>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp" height="60" alt="Programming Languages">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts" height="60" alt="Languages">
+</div>
+</td>
+<td width="50%" valign="top" align="left">
+<strong>Frontend</strong><br>
+<div>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="60" alt="Frontend">
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="left">
+<strong>Backend</strong><br>
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,fastapi,spring" height="60" alt="Backend">
 </div>
 </td>
 <td width="50%" valign="top" align="left">
 <strong>Databases</strong><br>
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="60" alt="Databases">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" height="60" alt="Databases">
 </div>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="left">
-<strong>DevOps & CI/CD</strong><br>
+<strong>DevOps & Cloud</strong><br>
 <div>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,nginx,terraform,ubuntu" height="60" alt="DevOps and CI/CD">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,terraform,aws" height="60" alt="DevOps and Cloud">
 </div>
 </td>
 <td width="50%" valign="top" align="left">
-<strong>Cloud</strong><br>
+<strong>Tools</strong><br>
 <div>
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS">
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="left">
-<strong>DevSecOps</strong><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=sonarqube,semgrep" height="60" alt="DevSecOps">
-</div>
-</td>
-<td width="50%" valign="top" align="left">
-<strong>Monitoring</strong><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="60" alt="Monitoring">
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="left">
-<strong>Tools & Collaboration</strong><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,jira,slack,postman" height="60" alt="Tools and Collaboration">
-</div>
-</td>
-<td width="50%" valign="top" align="left">
-<strong>Learning</strong><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=react,maven,spring,hibernate" height="60" alt="Learning">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux" height="60" alt="Tools">
 </div>
 </td>
 </tr>
