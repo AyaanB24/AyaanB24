@@ -32,11 +32,14 @@
 <h2 align="center">Tech Stack</h2>
 
 <div align="center">
-  <img
-    src="https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Modern%20GitHub%20profile%20tech%20stack%20banner%20on%20transparent%20background%2C%20dark%20theme%20compatible%2C%204k%2C%20grid%20of%20individual%20circular%20icon%20badges%20with%20subtle%20glassmorphism%20and%20soft%20shadow%2C%20thin%20glowing%20border%2C%20official%20brand%20colors%2C%20centered%20logos%2C%20consistent%20size%20and%20spacing.%20Technologies%3A%20Java%2C%20Spring%20Boot%2C%20Maven%2C%20Hibernate%2C%20JPA%2C%20MySQL%2C%20MongoDB%2C%20Docker%2C%20Kubernetes%2C%20Jenkins%2C%20GitHub%20Actions%2C%20AWS%2C%20Amazon%20EC2%2C%20Amazon%20S3%2C%20Amazon%20CloudFront%2C%20Linux%2C%20Ubuntu%2C%20NGINX%2C%20Git%2C%20GitHub%2C%20Bash%20shell%20scripting%2C%20Postman%2C%20SonarQube%2C%20Trivy%2C%20OWASP%20Dependency-Check%2C%20Semgrep%2C%20Prometheus%2C%20Grafana%2C%20Jira%2C%20Slack.&image_size=landscape_16_9"
-    alt="Tech Stack Icons"
-    width="100%"
-  >
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,mongodb,docker,kubernetes,jenkins,githubactions,aws,ec2,s3,cloudfront,linux,ubuntu,nginx,git,github,bash,postman,prometheus,grafana,jira,slack&perline=8" alt="Tech Stack Icons">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square" alt="JPA">
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square" alt="SonarQube">
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square" alt="Trivy">
+  <img src="https://img.shields.io/badge/OWASP%20Dependency--Check-000000?style=flat-square" alt="OWASP Dependency-Check">
+  <img src="https://img.shields.io/badge/Semgrep-000000?style=flat-square" alt="Semgrep">
 </div>
 
 <details>
