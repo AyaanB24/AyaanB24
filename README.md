@@ -77,7 +77,7 @@ $ cat education.log
 
 **Java Full Stack**
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,mongodb,react,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,mongodb,html,css&theme=dark" />
 
 **DevOps & Cloud**
 
@@ -85,22 +85,27 @@ $ cat education.log
 
 **Version Control, Languages & Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,c,cpp,jira,postman,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
+<br><br>
+<div>
+<img src="https://cdn.simpleicons.org/jira/0052CC" height="50" alt="Jira" title="Jira">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/slack/4A154B" height="50" alt="Slack" title="Slack">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/intellijidea/000000" height="50" alt="IntelliJ IDEA" title="IntelliJ IDEA">
+</div>
 
 **DevSecOps & Monitoring**
 
 <div>
-<img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="52" alt="SonarQube" title="SonarQube">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/trivy/1904DA" height="52" alt="Trivy" title="Trivy">&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/owasp/FFFFFF" height="52" alt="OWASP Dependency-Check" title="OWASP Dependency-Check">&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/semgrep/FFFFFF" height="52" alt="Semgrep" title="Semgrep">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/owasp/000000" height="52" alt="OWASP Dependency-Check" title="OWASP Dependency-Check">&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="52" alt="Prometheus" title="Prometheus">&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/grafana/F46800" height="52" alt="Grafana" title="Grafana">
 </div>
 
 **Collaboration & Practices**
 
-`Agile / Scrum` · `SDLC` · `OOPs` · `DBMS` · `Computer Networks` · `Operating Systems` · `REST APIs` · `Jira` · `Slack`
+`Agile / Scrum` · `SDLC` · `OOPs` · `DBMS` · `Computer Networks` · `Operating Systems` · `REST APIs`
 
 <br>
 
