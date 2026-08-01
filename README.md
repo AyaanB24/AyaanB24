@@ -36,30 +36,51 @@
 <td width="50%" valign="top" align="left">
 <strong>Programming Languages</strong><br>
 <sub>Java (Proficient)</sub><br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+<div>
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=java" width="34" height="34" alt="Java" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=c" width="34" height="34" alt="C" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=cpp" width="34" height="34" alt="C++" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+</div>
 </td>
 <td width="50%" valign="top" align="left">
 <strong>Databases</strong><br>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<div>
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=mysql" width="34" height="34" alt="MySQL" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="34" height="34" alt="MongoDB" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="left">
 <strong>DevOps & CI/CD</strong><br>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX">
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-<img src="https://img.shields.io/badge/Linux%20(Ubuntu)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+<div>
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=docker" width="34" height="34" alt="Docker" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="34" height="34" alt="Kubernetes" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=jenkins" width="34" height="34" alt="Jenkins" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=githubactions" width="34" height="34" alt="GitHub Actions" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=nginx" width="34" height="34" alt="NGINX" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=terraform" width="34" height="34" alt="Terraform" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=ubuntu" width="34" height="34" alt="Ubuntu" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+</div>
 </td>
 <td width="50%" valign="top" align="left">
 <strong>Cloud</strong><br>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+<div>
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=aws" width="34" height="34" alt="AWS" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+</div>
 <br>
 <sub>EC2 • S3 • CloudFront</sub>
 </td>
@@ -67,33 +88,57 @@
 <tr>
 <td width="50%" valign="top" align="left">
 <strong>DevSecOps</strong><br>
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy">
-<img src="https://img.shields.io/badge/OWASP%20Dependency--Check-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP Dependency-Check">
-<img src="https://img.shields.io/badge/Semgrep-000000?style=for-the-badge&logo=semgrep&logoColor=white" alt="Semgrep">
+<div>
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=sonarqube" width="34" height="34" alt="SonarQube" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://cdn.simpleicons.org/trivy/1904DA" width="34" height="34" alt="Trivy" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://cdn.simpleicons.org/owasp/000000" width="34" height="34" alt="OWASP" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=semgrep" width="34" height="34" alt="Semgrep" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+</div>
 </td>
 <td width="50%" valign="top" align="left">
 <strong>Monitoring</strong><br>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+<div>
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=prometheus" width="34" height="34" alt="Prometheus" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=grafana" width="34" height="34" alt="Grafana" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="left">
 <strong>Tools & Collaboration</strong><br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+<div>
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=git" width="34" height="34" alt="Git" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=github" width="34" height="34" alt="GitHub" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=jira" width="34" height="34" alt="Jira" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=slack" width="34" height="34" alt="Slack" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=postman" width="34" height="34" alt="Postman" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="34" height="34" alt="n8n" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+</div>
 </td>
 <td width="50%" valign="top" align="left">
 <strong>Learning</strong><br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
+<div>
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=react" width="34" height="34" alt="React" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=maven" width="34" height="34" alt="Maven" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=spring" width="34" height="34" alt="Spring Boot" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
+  <img src="https://skillicons.dev/icons?i=hibernate" width="34" height="34" alt="Hibernate" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+</div>
 </td>
 </tr>
 </table>
