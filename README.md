@@ -35,83 +35,12 @@
   <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,mongodb,docker,kubernetes,jenkins,githubactions,aws,ec2,s3,cloudfront,linux,ubuntu,nginx,git,github,bash,postman,prometheus,grafana,jira,slack&perline=8" alt="Tech Stack Icons">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square" alt="JPA">
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square" alt="SonarQube">
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square" alt="Trivy">
-  <img src="https://img.shields.io/badge/OWASP%20Dependency--Check-000000?style=flat-square" alt="OWASP Dependency-Check">
-  <img src="https://img.shields.io/badge/Semgrep-000000?style=flat-square" alt="Semgrep">
+  <img src="https://cdn.simpleicons.org/jakartaee/EE4C2C" height="48" alt="JPA">
+  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="48" alt="SonarQube">
+  <img src="https://cdn.simpleicons.org/trivy/1904DA" height="48" alt="Trivy">
+  <img src="https://cdn.simpleicons.org/owasp/FFFFFF" height="48" alt="OWASP Dependency-Check">
+  <img src="https://cdn.simpleicons.org/semgrep/FFFFFF" height="48" alt="Semgrep">
 </div>
-
-<details>
-  <summary><strong>Tech stack list</strong></summary>
-
-```text
-Java • Spring Boot • Maven • Hibernate • JPA • MySQL • MongoDB • Docker • Kubernetes • Jenkins • GitHub Actions • AWS • EC2 • S3 • CloudFront • Linux • Ubuntu • NGINX • Git • GitHub • Shell Scripting • Postman • SonarQube • Trivy • OWASP Dependency-Check • Semgrep • Prometheus • Grafana • Jira • Slack
-```
-</details>
-
-<details>
-  <summary><strong>Prompt for AI (GitHub Profile Tech Stack Icons)</strong></summary>
-
-> Create a modern GitHub profile **Tech Stack** section on a clean transparent background.
->
-> Display each technology as an **individual circular (round) icon badge** with a subtle glassmorphism effect and soft shadow. Every badge should have:
->
-> * Perfect circular shape
-> * Official technology logo centered
-> * Thin glowing border
-> * Small technology name below the icon (optional)
-> * Consistent size and spacing
-> * High-resolution vector style
->
-> Arrange the icons in multiple balanced rows with equal spacing.
->
-> Include only these technologies:
->
-> * Java
-> * Spring Boot
-> * Maven
-> * Hibernate
-> * JPA
-> * MySQL
-> * MongoDB
-> * Docker
-> * Kubernetes
-> * Jenkins
-> * GitHub Actions
-> * AWS
-> * Amazon EC2
-> * Amazon S3
-> * Amazon CloudFront
-> * Linux
-> * Ubuntu
-> * NGINX
-> * Git
-> * GitHub
-> * Shell Scripting (Bash)
-> * Postman
-> * SonarQube
-> * Trivy
-> * OWASP Dependency-Check
-> * Semgrep
-> * Prometheus
-> * Grafana
-> * Jira
-> * Slack
->
-> Design style:
->
-> * Professional DevOps engineer portfolio
-> * Minimal and clean
-> * Dark theme compatible
-> * Transparent PNG
-> * Official brand colors
-> * Equal icon sizing
-> * No extra decorations
-> * Crisp SVG-like quality
-> * Suitable for a GitHub README profile
-> * 4K resolution with generous padding so it scales well on GitHub.
-</details>
 
 <h2 align="center">Projects</h2>
 <div align="center">
