@@ -1,178 +1,226 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&color=3B82F6&background=FFFFFF00&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I'm+Ayaan+Bargir;Computer+Science+Student;Full+Stack+%26+DevOps+Enthusiast;Building+Solutions+at+Scale" alt="Typing SVG">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ayaan%20Bargir&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=DevOps%20%7C%20DevSecOps%20%7C%20Cloud%20Engineer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Automating+CI%2FCD+Pipelines;Containerizing+%26+Deploying+at+Scale;Securing+the+SDLC+(DevSecOps);Building+on+AWS+%7C+Docker+%7C+Kubernetes" alt="Typing SVG" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/ayaan-bargir-13b684311/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:ayaanbargir7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/AyaanB24" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
 </div>
 
-<h2 align="center">Introduction</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/ayaan-bargir" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:ayaan.bargir@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/AyaanB24" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+<br>
 
-<h2 align="center">About Me</h2>
-<p align="center">
-  B.Tech Computer Science & Engineering (IoT & CSBT)<br>
-  Annasaheb Dange College of Engineering & Technology (ADCET)<br>
-  Sangli, Maharashtra, India<br>
-  Expected Graduation: May 2027<br>
-  CGPA: 8.79
-</p>
+## 🧭 About Me
 
-<h3 align="center">Interests</h3>
-<p align="center">
-  Full Stack Development • DevOps • Cloud Computing • Backend Engineering • Open Source
-</p>
-
-<h2 align="center">Tech Stack</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,mongodb,docker,kubernetes,jenkins,githubactions,aws,ec2,s3,cloudfront,linux,ubuntu,nginx,git,github,bash,postman,prometheus,grafana,jira,slack&perline=8" alt="Tech Stack Icons">
-</div>
-<div align="center">
-  <img src="https://cdn.simpleicons.org/jakartaee/EE4C2C" height="48" alt="JPA">
-  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="48" alt="SonarQube">
-  <img src="https://cdn.simpleicons.org/trivy/1904DA" height="48" alt="Trivy">
-  <img src="https://cdn.simpleicons.org/owasp/FFFFFF" height="48" alt="OWASP Dependency-Check">
-  <img src="https://cdn.simpleicons.org/semgrep/FFFFFF" height="48" alt="Semgrep">
-</div>
-
-<h2 align="center">Projects</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <div align="center">
-          <h3><a href="https://github.com/AyaanB24/job-portal" target="_blank">Production Ready Job Portal</a></h3>
-          <p>MERN • Docker • Jenkins • Kubernetes • NGINX</p>
-        </div>
-      </td>
-      <td width="50%">
-        <div align="center">
-          <h3><a href="https://github.com/AyaanB24/qumail" target="_blank">QuMail</a></h3>
-          <p>React • FastAPI • Encryption</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <div align="center">
-          <h3><a href="https://github.com/AyaanB24/notes-app-pipeline" target="_blank">CI/CD Pipeline for Notes App</a></h3>
-          <p>Docker • Docker Compose • Jenkins</p>
-        </div>
-      </td>
-      <td width="50%">
-        <div align="center">
-          <h3>More Coming Soon</h3>
-          <p>Open Source • Cloud • Backend</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h2 align="center">Experience</h2>
-<div align="center">
-<table width="100%">
-<tr>
-<td align="left"><strong>Cloud Computing & DevOps Intern</strong> | MainCrafts Technology<br><sub>Remote</sub></td>
-<td align="right"><strong>Jun 2026 – Jul 2026</strong></td>
-</tr>
-<tr>
-<td colspan="2" align="left">
-• Deployed static websites on AWS S3 with CloudFront for secure, globally distributed content delivery.<br>
-• Containerized and deployed web applications using Docker, NGINX, Docker Hub, and AWS EC2.<br>
-• Implemented CI/CD automation using GitHub Actions to streamline build and deployment workflows.
-</td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
-<td align="left"><strong>Web Development Intern</strong> | Rinex (Google for Education Partnership)<br><sub>Remote</sub></td>
-<td align="right"><strong>May 2025 – Jul 2025</strong></td>
-</tr>
-<tr>
-<td colspan="2" align="left">
-• Developed a Full Stack Job Portal with user authentication, REST APIs, job posting, and application management.<br>
-• Implemented frontend-backend integration and customized features per project requirements.
-</td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
-<td align="left"><strong>Web Development Intern</strong> | Itinium<br><sub>Onsite</sub></td>
-<td align="right"><strong>Jun 2023 – Jul 2023</strong></td>
-</tr>
-<tr>
-<td colspan="2" align="left">
-• Developed frontend and backend components under mentor guidance.<br>
-• Debugged code and collaborated with the team using Git, following industry-standard workflows.
-</td>
-</tr>
-</table>
-</div>
-
-<h2 align="center">Achievements & Certifications</h2>
-<div align="center">
-<p align="center">
-<img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-<img src="https://img.shields.io/badge/HackerRank-Java%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Java">
-</p>
 <table>
 <tr>
-<td align="left">
-<ol>
-<li>Won Best Presenter Award (Software Category) and reached Finals at ADCET National Level Hackathon S3</li>
-<li>Reached Finals at VishwaNova 2026 National Hackathon, ranking among top teams out of 3,000+ participants</li>
-<li>Qualified for Round 2 (Idea Pitch) at Hack Elevate’26 National AI Hackathon among 819+ registered participants</li>
-<li>Qualified for Round 2 (Idea Presentation) at DIPEX 2026 Innovation Exhibition, selected among 3,000+ participants</li>
-<li>AWS Cloud Practitioner Essentials – Amazon Web Services</li>
-<li>Solutions Architecture Job Simulation by Forge, focused on scalable cloud hosting architecture design</li>
-<li>Java (Basic) Certificate – HackerRank, demonstrating proficiency in core Java programming concepts</li>
-</ol>
+<td width="60%" valign="top">
+
+I'm a **DevOps / DevSecOps Engineer in training**, currently pursuing my **B.Tech in Computer Science & Engineering (IoT & CSBT)** at Annasaheb Dange College of Engineering & Technology, Sangli — graduating **May 2027** with a **CGPA of 8.79**.
+
+I build **secure, automated CI/CD pipelines** with Jenkins and GitHub Actions, **containerize and orchestrate** applications with Docker and Kubernetes, and deploy production-grade infrastructure on **AWS (EC2, S3, CloudFront)**. My focus is shipping software that is fast to deploy, easy to observe, and secure by default — integrating tools like **SonarQube, Trivy, OWASP Dependency-Check, and Semgrep** directly into the pipeline.
+
+- 🔧 Currently building a **Cloud-Native Job Portal** with GitOps (Argo CD) and full observability (Prometheus + Grafana)
+- 🔐 Practicing **DevSecOps**: shift-left security scanning baked into every pipeline
+- 🌱 Actively looking for **DevOps / DevSecOps / Integration Engineering** internships (Bengaluru-based, off-campus)
+- 💬 Ask me about Docker, Kubernetes, Jenkins, GitHub Actions, or AWS deployments
+
+</td>
+<td width="40%" valign="top" align="center">
+
+**🎓 Education**
+
+**B.Tech CSE (IoT & CSBT)** — CGPA 8.79
+ADCET, Ashta · Aug 2024 – May 2027
+
+**Diploma in CS** — 85.26%
+Lathe Polytechnic, Sangli
+
+**SSC** — 82.20%
+St. Thomas English Medium School
+
 </td>
 </tr>
 </table>
-</div>
 
-<h2 align="center">GitHub Analytics</h2>
-<div align="center">
-  <a href="https://github.com/AyaanB24">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyaanB24&show_icons=true&hide_border=true&count_private=true&theme=transparent&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AyaanB24&hide_border=true&theme=transparent"/>
-  </a>
-</div>
+<br>
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanB24&hide_border=true&theme=transparent&layout=compact"/>
+
+**CI/CD & Containers**
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+
+**Cloud & Infrastructure**
+<br>
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+
+**DevSecOps & Monitoring**
+<br>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white">
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white">
+<img src="https://img.shields.io/badge/Semgrep-0B6CB6?style=for-the-badge&logo=semgrep&logoColor=white">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+
+**Languages, VCS & Collaboration**
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+
 </div>
 
-<h2 align="center">Contribution Graph</h2>
+<br>
+
+## 💼 Experience
+
+<table width="100%">
+<tr>
+<td align="left" width="70%"><b>Cloud Computing & DevOps Intern</b> · MainCrafts Technology <sub>(Remote)</sub></td>
+<td align="right" width="30%"><b>Jun 2026 – Jul 2026</b></td>
+</tr>
+<tr><td colspan="2">
+&nbsp;&nbsp;• Automated deployment of static websites on <b>AWS S3 + CloudFront</b> for secure, low-latency global delivery<br>
+&nbsp;&nbsp;• Containerized web applications using <b>Docker & NGINX</b>, deployed on <b>AWS EC2</b> for production hosting<br>
+&nbsp;&nbsp;• Built <b>CI/CD pipelines with GitHub Actions</b>, cutting manual build/deploy effort and improving release consistency
+</td></tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td align="left"><b>Web Development Intern</b> · Rinex (Google for Education Partnership) <sub>(Remote)</sub></td>
+<td align="right"><b>May 2025 – Jul 2025</b></td>
+</tr>
+<tr><td colspan="2">
+&nbsp;&nbsp;• Developed <b>REST APIs</b> and backend services for a full-stack Job Portal application<br>
+&nbsp;&nbsp;• Collaborated using <b>Git/GitHub</b> in an Agile development environment
+</td></tr>
+</table>
+
+<br>
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [Cloud-Native Job Portal](https://github.com/AyaanB24/job-portal-devops)
+*Ongoing — Docker · Jenkins · SonarQube · Kubernetes · NGINX*
+
+- Full-stack Job Portal with role-based auth, job management & tracking
+- Containerized with Docker + NGINX — env setup cut from **30 min → under 5 min**
+- CI/CD via Jenkins + GitHub webhooks + SonarQube — manual effort down **80%**
+- In progress: Trivy, OWASP Dependency-Check, K8s deployment, Argo CD GitOps, Prometheus & Grafana
+
+</td>
+<td width="50%" valign="top">
+
+### 🔁 [CI/CD Pipeline for Notes App](https://github.com/AyaanB24/k8s-Django-notes-app)
+*Jenkins · Docker · Docker Compose*
+
+- Jenkins pipeline cutting deployment time from **10 min → under 3 min**
+- Automated Docker image publishing to Docker Hub
+- Multi-container orchestration via Docker Compose
+- Automated email alerts on failed builds for faster issue detection
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 [QuMail — Quantum-Ready Secure Email](https://github.com/AyaanB24/Qumail)
+*React · FastAPI · Shell Script (Hackathon Build)*
+
+- React frontend integrated with a FastAPI backend
+- Multi-level encryption implemented for stronger data security
+- One-script automated setup for full project execution
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Open-Source Contributions
+
+- **3 merged PRs** (documentation) — [Tabler](https://github.com/tabler/tabler) and [MDN](https://github.com/mdn)
+- Actively looking to contribute more to infra/DevOps-tooling repos
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🏆 Achievements & Certifications
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/Forge-Solutions%20Architecture%20Job%20Sim-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/HackerRank-Java%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+
+- 🥇 **Best Presenter Award** (Software Category) + Finalist — ADCET National Level Hackathon S3
+- 🏅 **Finalist**, VishwaNova 2026 National Hackathon — ranked among top teams out of 3,000+ participants
+- 🎯 Qualified Round 2 (Idea Pitch), **Hack Elevate '26** National AI Hackathon — among 819+ participants
+- 🎯 Qualified Round 2 (Idea Presentation), **DIPEX 2026** Innovation Exhibition — among 3,000+ participants
+
+**Leadership & Speaking**
+- 👥 **Team Lead**, VishwaNova Hackathon — led a team of 5, delegated tasks & coordinated timelines *(Mar 2026)*
+- 🎤 **Technical Speaker**, Coding Club — conducted Git & Docker sessions for juniors *(Feb 2024)*
+
+<br>
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyaanB24&theme=github-compact&hide_border=true&area=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AyaanB24&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true"/>
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=AyaanB24&hide_border=true&theme=tokyonight"/>
 </div>
 
-<h2 align="center">Current Goals</h2>
 <div align="center">
-  <table>
-    <tr>
-      <td align="left">
-        <ul>
-          <li>Contribute more to open source projects</li>
-          <li>Strengthen DevOps and cloud engineering skills through hands-on projects</li>
-          <li>Build production-ready, scalable systems and improve backend fundamentals</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanB24&hide_border=true&theme=tokyonight&layout=compact"/>
 </div>
 
-<h2 align="center">Connect with Me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/ayaan-bargir">LinkedIn</a> •
-  <a href="https://github.com/AyaanB24">GitHub</a> •
-  <a href="mailto:ayaan.bargir@example.com">Email</a>
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyaanB24&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
+
+<br>
+
+## 🎯 Current Goals
+
+- 🎓 Land a **DevOps / DevSecOps / Integration Engineering internship** — Bengaluru, off-campus
+- 🔄 Finish rolling out **Argo CD GitOps + Prometheus/Grafana** on the Job Portal project
+- 🔓 Ship deeper open-source contributions in infra & DevOps-tooling repos
+- 📈 Go deeper on Infrastructure as Code (Terraform) and configuration management (Ansible)
+
+<br>
+
+<div align="center">
+
+### 📫 Let's Connect
+
+<a href="https://www.linkedin.com/in/ayaan-bargir-13b684311/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:ayaanbargir7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/AyaanB24" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+
+</div>
