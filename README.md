@@ -37,21 +37,13 @@
 <strong>Programming Languages</strong><br>
 <sub>Java (Proficient)</sub><br>
 <div>
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=java" width="34" height="34" alt="Java" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=c" width="34" height="34" alt="C" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=cpp" width="34" height="34" alt="C++" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp" height="48" alt="Programming Languages">
 </div>
 </td>
 <td width="50%" valign="top" align="left">
 <strong>Databases</strong><br>
 <div>
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=mysql" width="34" height="34" alt="MySQL" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="34" height="34" alt="MongoDB" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="48" alt="Databases">
 </div>
 </td>
 </tr>
@@ -59,27 +51,13 @@
 <td width="50%" valign="top" align="left">
 <strong>DevOps & CI/CD</strong><br>
 <div>
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=docker" width="34" height="34" alt="Docker" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="34" height="34" alt="Kubernetes" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=jenkins" width="34" height="34" alt="Jenkins" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=githubactions" width="34" height="34" alt="GitHub Actions" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=nginx" width="34" height="34" alt="NGINX" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=terraform" width="34" height="34" alt="Terraform" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=ubuntu" width="34" height="34" alt="Ubuntu" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,nginx,terraform,ubuntu" height="48" alt="DevOps and CI/CD">
 </div>
 </td>
 <td width="50%" valign="top" align="left">
 <strong>Cloud</strong><br>
 <div>
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=aws" width="34" height="34" alt="AWS" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS">
 </div>
 <br>
 <sub>EC2 • S3 • CloudFront</sub>
@@ -89,23 +67,15 @@
 <td width="50%" valign="top" align="left">
 <strong>DevSecOps</strong><br>
 <div>
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=sonarqube" width="34" height="34" alt="SonarQube" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://cdn.simpleicons.org/trivy/1904DA" width="34" height="34" alt="Trivy" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://cdn.simpleicons.org/owasp/000000" width="34" height="34" alt="OWASP" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=semgrep" width="34" height="34" alt="Semgrep" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="https://skillicons.dev/icons?i=sonarqube,semgrep" height="48" alt="DevSecOps">
+  <img src="https://cdn.simpleicons.org/trivy/1904DA" height="48" alt="Trivy">
+  <img src="https://cdn.simpleicons.org/owasp/000000" height="48" alt="OWASP">
 </div>
 </td>
 <td width="50%" valign="top" align="left">
 <strong>Monitoring</strong><br>
 <div>
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=prometheus" width="34" height="34" alt="Prometheus" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=grafana" width="34" height="34" alt="Grafana" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="48" alt="Monitoring">
 </div>
 </td>
 </tr>
@@ -113,31 +83,14 @@
 <td width="50%" valign="top" align="left">
 <strong>Tools & Collaboration</strong><br>
 <div>
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=git" width="34" height="34" alt="Git" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=github" width="34" height="34" alt="GitHub" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=jira" width="34" height="34" alt="Jira" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=slack" width="34" height="34" alt="Slack" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=postman" width="34" height="34" alt="Postman" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="34" height="34" alt="n8n" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="https://skillicons.dev/icons?i=git,github,jira,slack,postman" height="48" alt="Tools and Collaboration">
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n">
 </div>
 </td>
 <td width="50%" valign="top" align="left">
 <strong>Learning</strong><br>
 <div>
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=react" width="34" height="34" alt="React" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=maven" width="34" height="34" alt="Maven" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=spring" width="34" height="34" alt="Spring Boot" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
-  <img src="./assets/icon-ring.svg" width="60" height="60" alt="">
-  <img src="https://skillicons.dev/icons?i=hibernate" width="34" height="34" alt="Hibernate" style="margin-left:-47px;margin-right:14px;margin-bottom:10px;">
+  <img src="https://skillicons.dev/icons?i=react,maven,spring,hibernate" height="48" alt="Learning">
 </div>
 </td>
 </tr>
