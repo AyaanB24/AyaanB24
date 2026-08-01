@@ -211,20 +211,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyaanB24&theme=github-compact&hide_border=true&area=true"/>
 </div>
 
-<h2 align="center">Visitor Counter</h2>
-<div align="center">
-  <img src="https://komarev.com/vc/github/AyaanB24"/>
-</div>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyaanB24/AyaanB24/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyaanB24/AyaanB24/output/github-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AyaanB24/AyaanB24/output/github-snake.svg"/>
-  </picture>
-</div>
-
 <h2 align="center">Current Goals</h2>
 <div align="center">
   <table>
