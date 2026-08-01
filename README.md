@@ -29,53 +29,25 @@
   Full Stack Development • DevOps • Cloud Computing • Backend Engineering • Open Source
 </p>
 
-<h2 align="center">Tech Stack</h2>
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top" align="left">
-<strong>Languages</strong><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts" height="60" alt="Languages">
-</div>
-</td>
-<td width="50%" valign="top" align="left">
-<strong>Frontend</strong><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="60" alt="Frontend">
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="left">
-<strong>Backend</strong><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,fastapi,spring" height="60" alt="Backend">
-</div>
-</td>
-<td width="50%" valign="top" align="left">
-<strong>Databases</strong><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" height="60" alt="Databases">
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="left">
-<strong>DevOps & Cloud</strong><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,terraform,aws" height="60" alt="DevOps and Cloud">
-</div>
-</td>
-<td width="50%" valign="top" align="left">
-<strong>Tools</strong><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux" height="60" alt="Tools">
-</div>
-</td>
-</tr>
-</table>
-<p align="center"><strong>Concepts:</strong> OOPs • DBMS • CN • OS • APIs • SDLC • Agile/Scrum</p>
+<h2 align="center">Tech Stack (DevOps & Backend)</h2>
+<div align="left">
+<ul>
+  <li><strong>Programming Languages:</strong> Java</li>
+  <li><strong>Databases:</strong> MySQL, MongoDB</li>
+  <li><strong>DevOps & Cloud:</strong> Docker, Kubernetes, Jenkins, GitHub Actions, Linux (Ubuntu), AWS</li>
+  <li><strong>Tools & Technologies:</strong> Git, GitHub, Jira, Slack, Postman</li>
+  <li><strong>Concepts:</strong> OOPs, DBMS, CN, OS, APIs, SDLC, Agile Methodology (Scrum)</li>
+  <li><strong>Learning:</strong> Java Full Stack Development (Maven, Spring Boot, JPA + Hibernate)</li>
+</ul>
+<ul>
+  <li><strong>DevOps & CI/CD:</strong> Docker, Kubernetes, Jenkins, GitHub Actions, CI/CD Pipelines, Docker Compose, Docker Hub</li>
+  <li><strong>Cloud:</strong> AWS (EC2, S3, CloudFront)</li>
+  <li><strong>DevSecOps:</strong> SonarQube, Trivy, OWASP Dependency-Check, Semgrep</li>
+  <li><strong>Monitoring:</strong> Prometheus, Grafana</li>
+  <li><strong>Infrastructure & OS:</strong> Linux (Ubuntu), NGINX (Reverse Proxy), Shell Scripting</li>
+  <li><strong>Version Control:</strong> Git, GitHub</li>
+  <li><strong>Collaboration & Practices:</strong> Jira, Slack, Agile/Scrum, SDLC</li>
+</ul>
 </div>
 
 <h2 align="center">Projects</h2>
