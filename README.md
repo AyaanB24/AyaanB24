@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ayaan%20Bargir&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=DevOps%20%7C%20DevSecOps%20%7C%20Cloud%20Engineer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ayaan%20Bargir&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=DevOps%20%7C%20DevSecOps%20%7C%20Java%20Full%20Stack&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Automating+CI%2FCD+Pipelines;Containerizing+%26+Deploying+at+Scale;Securing+the+SDLC+(DevSecOps);Building+on+AWS+%7C+Docker+%7C+Kubernetes" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Automating+CI%2FCD+Pipelines;Containerizing+%26+Deploying+at+Scale;Securing+the+SDLC+(DevSecOps);Java+Full+Stack+%2B+Cloud+Native" alt="Typing SVG" />
 
 <br>
 
@@ -14,81 +14,93 @@
 
 <br>
 
-## 🧭 About Me
+## 🧑‍💻 whoami
 
 <table>
 <tr>
-<td width="60%" valign="top">
-
-I'm a **DevOps / DevSecOps Engineer in training**, currently pursuing my **B.Tech in Computer Science & Engineering (IoT & CSBT)** at Annasaheb Dange College of Engineering & Technology, Sangli — graduating **May 2027** with a **CGPA of 8.79**.
-
-I build **secure, automated CI/CD pipelines** with Jenkins and GitHub Actions, **containerize and orchestrate** applications with Docker and Kubernetes, and deploy production-grade infrastructure on **AWS (EC2, S3, CloudFront)**. My focus is shipping software that is fast to deploy, easy to observe, and secure by default — integrating tools like **SonarQube, Trivy, OWASP Dependency-Check, and Semgrep** directly into the pipeline.
-
-- 🔧 Currently building a **Cloud-Native Job Portal** with GitOps (Argo CD) and full observability (Prometheus + Grafana)
-- 🔐 Practicing **DevSecOps**: shift-left security scanning baked into every pipeline
-- 🌱 Actively looking for **DevOps / DevSecOps / Integration Engineering** internships (Bengaluru-based, off-campus)
-- 💬 Ask me about Docker, Kubernetes, Jenkins, GitHub Actions, or AWS deployments
-
+<td valign="middle" align="center" width="30%">
+<pre>
+   .--.
+  |o_o |
+  |:_/ |
+ //   \ \
+(|     | )
+/'\_   _/`\
+\___)=(___/
+</pre>
 </td>
-<td width="40%" valign="top" align="center">
-
-**🎓 Education**
-
-**B.Tech CSE (IoT & CSBT)** — CGPA 8.79
-ADCET, Ashta · Aug 2024 – May 2027
-
-**Diploma in CS** — 85.26%
-Lathe Polytechnic, Sangli
-
-**SSC** — 82.20%
-St. Thomas English Medium School
-
+<td valign="middle" width="70%">
+<pre>
+ayaan@devops ~ %
+-------------------
+<b>OS</b>........: B.Tech CSE (IoT & CSBT) — ADCET, Ashta
+<b>Kernel</b>....: CGPA 8.79
+<b>Uptime</b>....: Aug 2024 → May 2027 (Expected)
+<b>Shell</b>.....: bash · kubectl · docker CLI
+<b>Editor</b>....: VS Code
+<b>WM</b>........: Jenkins + GitHub Actions
+<b>Theme</b>.....: DevSecOps [Dark]
+<b>CPU</b>.......: Java · Spring Boot · React
+<b>GPU</b>.......: AWS (EC2 · S3 · CloudFront)
+<b>Memory</b>....: Open to DevOps / DevSecOps / Integration
+              Engineering internships — Bengaluru
+</pre>
 </td>
 </tr>
 </table>
+
+I build **secure, automated CI/CD pipelines** with Jenkins and GitHub Actions, **containerize and orchestrate** applications with Docker and Kubernetes, and deploy on **AWS**. On the security side, I bake **SonarQube, Trivy, OWASP Dependency-Check, and Semgrep** directly into the pipeline. I also come from a **Java full-stack background** (Spring Boot, React, JPA/Hibernate), which shapes how I design and secure the systems I automate.
+
+<br>
+
+## 🎓 education.log
+
+<pre>
+$ cat education.log
+
+[2024 – 2027]  <b>B.Tech, Computer Science & Engineering (IoT & CSBT)</b>
+               Annasaheb Dange College of Engineering & Technology (ADCET), Ashta, India
+               CGPA: 8.79
+
+[2021 – 2024]  <b>Diploma in Computer Science</b>
+               Lathe Polytechnic, Sangli, India
+               Grade: 85.26%
+
+[2020 – 2021]  <b>SSC</b>
+               St. Thomas English Medium School, Sangli, India
+               Grade: 82.20%
+</pre>
 
 <br>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Java Full Stack**
 
-**CI/CD & Containers**
-<br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,mongodb,react,js,html,css&theme=dark" />
 
-**Cloud & Infrastructure**
-<br>
-<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-<img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
-<img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white">
-<img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,aws,linux,ubuntu,nginx,bash&theme=dark" />
+
+**Version Control, Languages & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,c,cpp,jira,postman,vscode&theme=dark" />
 
 **DevSecOps & Monitoring**
-<br>
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white">
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white">
-<img src="https://img.shields.io/badge/Semgrep-0B6CB6?style=for-the-badge&logo=semgrep&logoColor=white">
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
 
-**Languages, VCS & Collaboration**
-<br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-
+<div>
+<img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="52" alt="SonarQube" title="SonarQube">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/trivy/1904DA" height="52" alt="Trivy" title="Trivy">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/owasp/FFFFFF" height="52" alt="OWASP Dependency-Check" title="OWASP Dependency-Check">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/semgrep/FFFFFF" height="52" alt="Semgrep" title="Semgrep">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/prometheus/E6522C" height="52" alt="Prometheus" title="Prometheus">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/grafana/F46800" height="52" alt="Grafana" title="Grafana">
 </div>
+
+**Collaboration & Practices**
+
+`Agile / Scrum` · `SDLC` · `OOPs` · `DBMS` · `Computer Networks` · `Operating Systems` · `REST APIs` · `Jira` · `Slack`
 
 <br>
 
@@ -112,6 +124,15 @@ St. Thomas English Medium School
 <tr><td colspan="2">
 &nbsp;&nbsp;• Developed <b>REST APIs</b> and backend services for a full-stack Job Portal application<br>
 &nbsp;&nbsp;• Collaborated using <b>Git/GitHub</b> in an Agile development environment
+</td></tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td align="left"><b>Web Development Intern</b> · Itinium <sub>(Onsite)</sub></td>
+<td align="right"><b>Jun 2023 – Jul 2023</b></td>
+</tr>
+<tr><td colspan="2">
+&nbsp;&nbsp;• Developed frontend and backend components under mentor guidance<br>
+&nbsp;&nbsp;• Debugged code and collaborated with the team using Git, following industry-standard workflows
 </td></tr>
 </table>
 
