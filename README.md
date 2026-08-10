@@ -17,42 +17,8 @@
 ## 🧑‍💻 whoami
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=400&color=22C55E&center=true&vCenter=true&width=600&lines=%24+ssh+ayaan%40devops-workstation;Authenticating...+%E2%9C%93;Welcome+back%2C+Ayaan.;%24+neofetch" alt="Terminal boot" />
-</div>
-
-<table>
-<tr>
-<td valign="middle" align="center" width="30%">
-<pre>
-   .--.
-  |o_o |
-  |:_/ |
- //   \ \
-(|     | )
-/'\_   _/`\
-\___)=(___/
-</pre>
-</td>
-<td valign="middle" width="70%">
-<pre>
-ayaan@devops ~ %
--------------------
-<b>OS</b>........: B.Tech CSE (IoT & CSBT) — ADCET, Ashta
-<b>Kernel</b>....: CGPA 8.79
-<b>Uptime</b>....: Aug 2024 → May 2027 (Expected)
-<b>Shell</b>.....: bash · kubectl · docker CLI
-<b>Editor</b>....: VS Code
-<b>WM</b>........: Jenkins + GitHub Actions
-<b>Theme</b>.....: DevSecOps [Dark]
-<b>CPU</b>.......: Java · Spring Boot · React
-<b>GPU</b>.......: AWS (EC2 · S3 · CloudFront)
-<b>Memory</b>....: Open to DevOps / DevSecOps / Integration
-              Engineering internships — Bengaluru
-</pre>
-</td>
-</tr>
-</table>
-I build **secure, automated CI/CD pipelines** with Jenkins and GitHub Actions, **containerize and orchestrate** applications with Docker and Kubernetes, and deploy on **AWS**. On the security side, I bake **SonarQube, Trivy, OWASP Dependency-Check, and Semgrep** directly into the pipeline. I also come from a **Java full-stack background** (Spring Boot, React, JPA/Hibernate), which shapes how I design and secure the systems I automate.
+<img src="https://raw.githubusercontent.com/AyaanB24/AyaanB24/main/assets/neofetch-terminal.svg" width="850"/>
+</div>I build **secure, automated CI/CD pipelines** with Jenkins and GitHub Actions, **containerize and orchestrate** applications with Docker and Kubernetes, and deploy on **AWS**. On the security side, I bake **SonarQube, Trivy, OWASP Dependency-Check, and Semgrep** directly into the pipeline. I also come from a **Java full-stack background** (Spring Boot, React, JPA/Hibernate), which shapes how I design and secure the systems I automate.
 
 <br>
 
