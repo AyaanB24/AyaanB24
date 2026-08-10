@@ -15,7 +15,7 @@
 ## 🧑‍💻 whoami
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AyaanB24/AyaanB24/main/assets/neofetch-terminal.svg" width="850" alt="whoami terminal"/>
+<img src="https://github.com/AyaanB24/AyaanB24/blob/main/assets/neofetch-terminal-v2.svg" width="850" alt="whoami terminal"/>
 </div>
 
 ## 🎓 education.log
