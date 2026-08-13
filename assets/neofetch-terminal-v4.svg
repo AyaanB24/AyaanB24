@@ -1,0 +1,250 @@
+<svg width="900" height="440" viewBox="0 0 900 440" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono', 'Fira Code', Consolas, monospace">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#101820"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a2530"/>
+      <stop offset="100%" stop-color="#0f1720"/>
+    </linearGradient>
+    <linearGradient id="podGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="1.6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <!--
+      Rule kept from the previous fix: CSS only ever animates "opacity" here.
+      Any element that needs to move (the gear) is rotated via SMIL
+      animateTransform on a node with no competing transform attribute,
+      never via a CSS "transform" keyframe — that's what caused the
+      misplacement bug last time.
+    -->
+    <style>
+      .fade { opacity: 0; animation: fadeIn 0.45s ease-out forwards; }
+      @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+      .l1  { animation-delay: 0.10s; }
+      .l2  { animation-delay: 0.35s; }
+      .l3  { animation-delay: 0.60s; }
+      .l4  { animation-delay: 0.85s; }
+      .l5  { animation-delay: 1.10s; }
+      .l6  { animation-delay: 1.35s; }
+      .l7  { animation-delay: 1.60s; }
+      .l8  { animation-delay: 1.85s; }
+      .l9  { animation-delay: 2.10s; }
+      .l10 { animation-delay: 2.35s; }
+      .l11 { animation-delay: 2.60s; }
+      .l12 { animation-delay: 2.85s; }
+      .l13 { animation-delay: 3.10s; }
+      .l14 { animation-delay: 3.35s; }
+
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+
+      /* ---- autoscaling loop, 6s cycle, repeats forever ---- */
+      .pod2 { animation: pod2Scale 6s ease-in-out infinite; }
+      @keyframes pod2Scale {
+        0%   { opacity: 0; }
+        28%  { opacity: 0; }
+        38%  { opacity: 1; }
+        70%  { opacity: 1; }
+        82%  { opacity: 0; }
+        100% { opacity: 0; }
+      }
+      .pod3 { animation: pod3Scale 6s ease-in-out infinite; }
+      @keyframes pod3Scale {
+        0%   { opacity: 0; }
+        42%  { opacity: 0; }
+        52%  { opacity: 1; }
+        64%  { opacity: 1; }
+        76%  { opacity: 0; }
+        100% { opacity: 0; }
+      }
+      .burst { animation: burstFade 6s ease-in-out infinite; }
+      @keyframes burstFade {
+        0%   { opacity: 0; }
+        30%  { opacity: 0; }
+        40%  { opacity: 1; }
+        68%  { opacity: 1; }
+        80%  { opacity: 0; }
+        100% { opacity: 0; }
+      }
+      .steadyTxt { animation: steadyTxt 6s ease-in-out infinite; }
+      @keyframes steadyTxt {
+        0%   { opacity: 1; }
+        30%  { opacity: 1; }
+        40%  { opacity: 0; }
+        80%  { opacity: 0; }
+        90%  { opacity: 1; }
+        100% { opacity: 1; }
+      }
+      .scaleTxt { animation: scaleTxt 6s ease-in-out infinite; }
+      @keyframes scaleTxt {
+        0%   { opacity: 0; }
+        30%  { opacity: 0; }
+        40%  { opacity: 1; }
+        80%  { opacity: 1; }
+        90%  { opacity: 0; }
+        100% { opacity: 0; }
+      }
+
+      .pulseDot { animation: pulse 1.6s ease-in-out infinite; }
+      .d2 { animation-delay: 0.3s; }
+      .d3 { animation-delay: 0.6s; }
+      @keyframes pulse { 0%, 100% { opacity: 0.35; } 50% { opacity: 1; } }
+
+      .prompt   { fill: #22c55e; }
+      .label    { fill: #38bdf8; }
+      .value    { fill: #e6edf3; }
+      .dim      { fill: #64748b; }
+      .accent   { fill: #f59e0b; }
+      .danger   { fill: #f87171; }
+      .titletxt { fill: #94a3b8; font-size: 12px; }
+    </style>
+  </defs>
+
+  <!-- window background -->
+  <rect x="0" y="0" width="900" height="440" rx="14" fill="url(#bgGrad)" stroke="#22303c" stroke-width="1"/>
+
+  <!-- title bar -->
+  <path d="M0,14 A14,14 0 0 1 14,0 H886 A14,14 0 0 1 900,14 V44 H0 Z" fill="url(#titleGrad)"/>
+  <circle cx="26" cy="22" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="22" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="22" r="6" fill="#27c93f"/>
+  <text x="450" y="27" text-anchor="middle" class="titletxt">ayaan@devops-workstation: ~</text>
+
+  <!-- ================= K8s autoscaling scene ================= -->
+
+  <!-- traffic source (clients) -->
+  <g class="fade l1">
+    <rect x="4" y="118" width="24" height="16" rx="3" fill="#111827" stroke="#334155" stroke-width="1"/>
+    <line x1="10" y1="134" x2="10" y2="138" stroke="#334155" stroke-width="2"/>
+    <line x1="22" y1="134" x2="22" y2="138" stroke="#334155" stroke-width="2"/>
+    <text x="16" y="150" text-anchor="middle" font-size="8" class="dim">clients</text>
+  </g>
+
+  <!-- flow line into cluster -->
+  <line x1="30" y1="130" x2="44" y2="130" stroke="#334155" stroke-width="1.5" stroke-dasharray="3 2" class="fade l1"/>
+
+  <!-- baseline traffic packets (always streaming) -->
+  <circle r="2.6" fill="#38bdf8">
+    <animateMotion path="M30,130 L60,130" dur="1.3s" begin="0s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.6" fill="#38bdf8">
+    <animateMotion path="M30,130 L60,130" dur="1.3s" begin="0.65s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- burst traffic packets (only visible during the load-spike window) -->
+  <circle r="2.6" fill="#f59e0b" class="burst">
+    <animateMotion path="M30,130 L60,130" dur="0.7s" begin="0s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.6" fill="#f59e0b" class="burst">
+    <animateMotion path="M30,130 L60,130" dur="0.7s" begin="0.25s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.6" fill="#f59e0b" class="burst">
+    <animateMotion path="M30,130 L60,130" dur="0.7s" begin="0.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- cluster boundary -->
+  <rect x="44" y="80" width="192" height="112" rx="10" fill="none" stroke="#334155" stroke-width="1.3" stroke-dasharray="5 3" class="fade l1"/>
+  <text x="54" y="72" font-size="10" class="dim fade l1">Deployment/web-app</text>
+
+  <!-- status line (top-right of cluster) -->
+  <text x="228" y="72" text-anchor="end" font-size="9.5" class="dim steadyTxt">● steady</text>
+  <text x="228" y="72" text-anchor="end" font-size="9.5" class="accent scaleTxt">▲ scaling out</text>
+
+  <!-- pod 1 (always running) -->
+  <g transform="translate(58,96)" class="fade l2" filter="url(#glow)">
+    <rect x="0" y="0" width="44" height="52" rx="8" fill="url(#podGrad)" stroke="#1d4ed8" stroke-width="1"/>
+    <rect x="7" y="7" width="30" height="15" rx="3" fill="#0f2340"/>
+    <rect x="7" y="26" width="30" height="15" rx="3" fill="#0f2340"/>
+    <circle class="pulseDot" cx="37" cy="7" r="3" fill="#22c55e"/>
+    <text x="22" y="64" text-anchor="middle" font-size="8.5" class="dim">pod-1</text>
+  </g>
+
+  <!-- pod 2 (scales in/out) -->
+  <g transform="translate(110,96)" class="pod2" filter="url(#glow)">
+    <rect x="0" y="0" width="44" height="52" rx="8" fill="url(#podGrad)" stroke="#1d4ed8" stroke-width="1"/>
+    <rect x="7" y="7" width="30" height="15" rx="3" fill="#0f2340"/>
+    <rect x="7" y="26" width="30" height="15" rx="3" fill="#0f2340"/>
+    <circle class="pulseDot d2" cx="37" cy="7" r="3" fill="#22c55e"/>
+    <text x="22" y="64" text-anchor="middle" font-size="8.5" class="dim">pod-2</text>
+  </g>
+
+  <!-- pod 3 (scales in/out, shorter window) -->
+  <g transform="translate(162,96)" class="pod3" filter="url(#glow)">
+    <rect x="0" y="0" width="44" height="52" rx="8" fill="url(#podGrad)" stroke="#1d4ed8" stroke-width="1"/>
+    <rect x="7" y="7" width="30" height="15" rx="3" fill="#0f2340"/>
+    <rect x="7" y="26" width="30" height="15" rx="3" fill="#0f2340"/>
+    <circle class="pulseDot d3" cx="37" cy="7" r="3" fill="#22c55e"/>
+    <text x="22" y="64" text-anchor="middle" font-size="8.5" class="dim">pod-3</text>
+  </g>
+
+  <!-- HPA controller gear (static outer placement, SMIL-spun inner) -->
+  <g transform="translate(214,168)" class="fade l2">
+    <circle r="16" fill="#0d1117" stroke="#1d4ed8" stroke-width="1.4"/>
+    <g>
+      <path d="M0,-12 L2.6,-12 L3.4,-8 L6.8,-6.7 L10.2,-9.3 L12,-7.5 L9.6,-4 L11,0 L15,0.9 L15,3.5 L11,4.4 L9.6,8 L12,11.5 L10.2,13 L6.8,10.3 L3.4,11.6 L2.6,15.5 L0,15.5 L-0.8,11.6 L-4.2,10.3 L-7.6,13 L-9.4,11.5 L-7,8 L-8.4,4.4 L-12.4,3.5 L-12.4,0.9 L-8.4,0 L-7,-4 L-9.4,-7.5 L-7.6,-9.3 L-4.2,-6.7 L-0.8,-8 Z"
+            fill="#38bdf8" stroke="#1d4ed8" stroke-width="0.5"/>
+      <circle cx="1.3" cy="1.7" r="4.2" fill="#0d1117"/>
+      <animateTransform attributeName="transform" type="rotate"
+                         from="0 1.3 1.7" to="360 1.3 1.7"
+                         dur="5s" repeatCount="indefinite"/>
+    </g>
+  </g>
+  <text x="214" y="196" text-anchor="middle" font-size="7.5" class="dim fade l2">HPA</text>
+
+  <!-- kubectl get pods style readout -->
+  <g transform="translate(50,220)" font-size="10" class="fade l3">
+    <text x="0" y="0" class="dim">NAME</text>
+    <text x="70" y="0" class="dim">STATUS</text>
+    <text x="0" y="18"><tspan class="value">pod-1</tspan><tspan x="70" class="prompt">Running</tspan></text>
+  </g>
+  <g transform="translate(50,238)" font-size="10" class="pod2">
+    <text x="0" y="18"><tspan class="value">pod-2</tspan><tspan x="70" class="prompt">Running</tspan></text>
+  </g>
+  <g transform="translate(50,256)" font-size="10" class="pod3">
+    <text x="0" y="18"><tspan class="value">pod-3</tspan><tspan x="70" class="prompt">Running</tspan></text>
+  </g>
+
+  <!-- ================= neofetch text block ================= -->
+  <g transform="translate(260,70)" font-size="14.5">
+    <text x="0" y="0"  class="fade l1 prompt">ayaan@devops ~ %</text>
+    <text x="0" y="18" class="fade l2 dim">-------------------</text>
+
+    <text x="0" y="42"  class="fade l3"><tspan class="label">System</tspan><tspan class="dim">....: </tspan><tspan class="value">B.Tech CSE (IoT &amp; CSBT) — ADCET, Ashta</tspan></text>
+    <text x="0" y="64"  class="fade l4"><tspan class="label">Education</tspan><tspan class="dim">.: </tspan><tspan class="value">CGPA 8.79</tspan></text>
+    <text x="0" y="86"  class="fade l5"><tspan class="label">Uptime</tspan><tspan class="dim">....: </tspan><tspan class="value">Aug 2024 → May 2027 (Expected)</tspan></text>
+    <text x="0" y="108" class="fade l6"><tspan class="label">Shell</tspan><tspan class="dim">.....: </tspan><tspan class="value">Bash · PowerShell</tspan></text>
+    <text x="0" y="130" class="fade l7"><tspan class="label">Tools</tspan><tspan class="dim">.....: </tspan><tspan class="value">Git · Docker · Kubernetes · Terraform</tspan></text>
+    <text x="0" y="152" class="fade l8"><tspan class="label">CI/CD</tspan><tspan class="dim">.....: </tspan><tspan class="value">Jenkins · GitHub Actions</tspan></text>
+    <text x="0" y="174" class="fade l9"><tspan class="label">Stack</tspan><tspan class="dim">.....: </tspan><tspan class="value">Java · Spring Boot · React</tspan></text>
+    <text x="0" y="196" class="fade l10"><tspan class="label">Cloud</tspan><tspan class="dim">.....: </tspan><tspan class="value">AWS · EC2 · S3 · CloudFront</tspan></text>
+    <text x="0" y="218" class="fade l11"><tspan class="label">Security</tspan><tspan class="dim">..: </tspan><tspan class="value">Trivy · SonarQube · Semgrep</tspan></text>
+    <text x="0" y="240" class="fade l12"><tspan class="label">Focus</tspan><tspan class="dim">.....: </tspan><tspan class="accent">DevOps · DevSecOps · Cloud Automation</tspan></text>
+    <text x="0" y="262" class="fade l13"><tspan class="label">Target</tspan><tspan class="dim">....: </tspan><tspan class="value">DevOps / DevSecOps / Cloud Engineering</tspan></text>
+    <text x="93" y="282" class="fade l13 value">Internships</text>
+
+    <text x="0" y="308" class="fade l14"><tspan class="prompt">ayaan@devops ~ % </tspan><tspan class="cursor value">▍</tspan></text>
+  </g>
+
+  <!-- ================= color swatch row ================= -->
+  <g transform="translate(260,322)" class="fade l14">
+    <rect x="0"   y="0" width="16" height="16" rx="3" fill="#ff5f56"/>
+    <rect x="20"  y="0" width="16" height="16" rx="3" fill="#ffbd2e"/>
+    <rect x="40"  y="0" width="16" height="16" rx="3" fill="#27c93f"/>
+    <rect x="60"  y="0" width="16" height="16" rx="3" fill="#38bdf8"/>
+    <rect x="80"  y="0" width="16" height="16" rx="3" fill="#a78bfa"/>
+    <rect x="100" y="0" width="16" height="16" rx="3" fill="#f472b6"/>
+    <rect x="120" y="0" width="16" height="16" rx="3" fill="#94a3b8"/>
+    <rect x="140" y="0" width="16" height="16" rx="3" fill="#e6edf3"/>
+  </g>
+</svg>
