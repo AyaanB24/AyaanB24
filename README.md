@@ -193,15 +193,6 @@ $ cat education.log
 
 <br>
 
-## 🎯 Current Goals
-
-- 🎓 Land a **DevOps / DevSecOps / Integration Engineering internship** — Bengaluru, off-campus
-- 🔄 Finish rolling out **Argo CD GitOps + Prometheus/Grafana** on the Job Portal project
-- 🔓 Ship deeper open-source contributions in infra & DevOps-tooling repos
-- 📈 Go deeper on Infrastructure as Code (Terraform) and configuration management (Ansible)
-
-<br>
-
 <div align="center">
 
 ### 📫 Let's Connect
