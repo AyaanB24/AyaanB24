@@ -14,9 +14,30 @@
 
 ---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/AyaanB24/AyaanB24/main/assets/backend-api.svg" width="900" alt="Ayaan Bargir - Backend and DevOps Engineer profile"/>
-</div>
+## Profile Response
+
+```http
+GET /api/v1/engineers/ayaan-bargir
+
+HTTP/1.1 200 OK
+Content-Type: application/json
+```
+
+```json
+{
+  "name": "Ayaan Bargir",
+  "role": "Backend Engineer · DevOps / DevSecOps",
+  "education": "B.Tech CSE (IoT & CSBT) — ADCET, Ashta · CGPA 8.79",
+  "graduating": "May 2027",
+  "backend": ["Java", "Spring Boot", "REST APIs", "MySQL", "MongoDB"],
+  "devops": ["Docker", "Kubernetes", "Jenkins", "GitHub Actions", "Argo CD", "Terraform"],
+  "cloud": ["AWS", "EC2", "S3", "CloudFront"],
+  "security": ["Trivy", "SonarQube", "OWASP Dependency-Check", "Semgrep"],
+  "shell": ["Bash", "PowerShell"],
+  "target": "Backend / DevOps / DevSecOps / Cloud internships",
+  "status": "open to internships"
+}
+```
 
 ---
 
